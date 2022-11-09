@@ -14,10 +14,7 @@ I am tech enthusiast and I like doing DSA in free time as well as learning new t
 ## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
 </p>
 
 
@@ -27,9 +24,8 @@ I am tech enthusiast and I like doing DSA in free time as well as learning new t
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/deepachaurasia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepachaurasia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepa-chaurasia-notes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepachaurasia" height="30" width="40" /></a>
-<a href="https://medium.com/@deepachaurasia33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://twitter.com/3101Jyoti?t=yy1VyHT4bTqb_bgYD0L4xw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotichaurasia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyoti-chaurasia-33713518b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotichaurasia" height="30" width="40" /></a>
 
 
 
