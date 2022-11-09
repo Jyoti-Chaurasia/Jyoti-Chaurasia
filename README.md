@@ -4,11 +4,11 @@
 
 # Hello folks!👋
 
-My name is Jyoti Chaurasia. I am Student at GL BAJAJ NOIDA. 
+My name is Jyoti Chaurasia. I am Student at GL BAJAJ NOIDA pursuing Btech in CSE-AIML. 
 
 ## &#x270d; Member of GDG and actively participate in Tech events
 
-I like doing DSA in free time and I also like learning new things everydat
+I am tech enthusiast and I like doing DSA in free time as well as learning new things everyday.
 
 
 ## 🔧 Languages & Tools
