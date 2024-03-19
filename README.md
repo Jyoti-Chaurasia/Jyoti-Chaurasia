@@ -8,7 +8,7 @@ My name is Jyoti Chaurasia. I am Student at GL BAJAJ NOIDA pursuing Btech in CSE
 
 ## &#x270d; Member of GDG and actively participate in Tech events
 
-I am tech enthusiast and I like doing DSA in free time as well as learning new things everyday.
+I am tech enthusiast and I like doing DSA as well as learning new things everyday.
 
 
 ## 🔧 Languages & Tools
@@ -17,6 +17,7 @@ I am tech enthusiast and I like doing DSA in free time as well as learning new t
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+   <img src="https://en.m.wikipedia.org/wiki/File:Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
 </p>
 
 
