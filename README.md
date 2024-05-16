@@ -4,9 +4,9 @@
 
 # Hello folks!👋
 
-My name is Jyoti Chaurasia. I am Student at GL BAJAJ NOIDA pursuing Btech in CSE-AIML. 
+My name is Jyoti Chaurasia. I am a pre-final year student at GL BAJAJ Greater Noida pursuing Btech in CSE-AIML. 
 
-## &#x270d; Member of GDG and actively participate in Tech events
+## &#x270d; Member of GDG New Delhi,GDG Noida,WTM,GDSC-GLB and actively participate in Tech events
 
 I am tech enthusiast and I like doing DSA as well as learning new things everyday.
 
