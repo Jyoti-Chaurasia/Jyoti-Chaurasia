@@ -4,7 +4,7 @@
 
 # Hello folks!👋
 
-My name is Jyoti Chaurasia. I am a final year student at GL BAJAJ Greater Noida pursuing Btech in CSE-AIML. 
+My name is Jyoti Chaurasia and I am a final year student at GL BAJAJ Greater Noida pursuing Btech in CSE-AIML. 
 
 ## &#x270d; In Top 5 finalists of Netapp Women Innovathon || Selected for the JP Morgan Chase & Co Code For Good Hackathon 
 
@@ -12,15 +12,16 @@ I am tech enthusiast and I like doing DSA as well as learning new things everyda
 
 
 ## 🔧 Languages & Tools
-<p align='left'>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
+<p align='Justify'>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40">
+   <img src="https://labs.mysql.com/common/logos/mysql-logo.svg, Fair use, https://en.wikipedia.org/w/index.php?curid=67634535" alt="MySQL" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-   <img src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png" alt="Java" width="60" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
+   <img src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png" alt="Java" width="60" height="50">
 </p>
 
 
