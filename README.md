@@ -4,11 +4,11 @@
 
 # Hello folks!👋
 
-My name is Jyoti Chaurasia and I am a final year student at GL BAJAJ Greater Noida pursuing Btech in CSE-AIML. 
+My name is Jyoti Chaurasia and I am a 👩‍💻 Software Engineer with a strong foundation in Data Structures & Algorithms (DSA), Competitive Programming (CP), and a passion for building impactful tech solutions.
 
-## &#x270d; In Top 5 finalists of Netapp Women Innovathon || Selected for the JP Morgan Chase & Co Code For Good Hackathon 
+## &#x270d; 1st Runner Up of Netapp Women Innovathon 2024
 
-I am tech enthusiast and I like doing DSA as well as learning new things everyday.
+💡 I enjoy exploring new technologies, solving real-world problems through code, and continuously upskilling to stay ahead in the evolving tech landscape.
 
 
 ## 🔧 Languages & Tools
